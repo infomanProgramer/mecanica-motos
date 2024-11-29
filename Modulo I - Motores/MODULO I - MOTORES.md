@@ -107,6 +107,9 @@ Para que el motor funcione por si solo es necesrio que el piston haga cuatro rec
 
 ![alt text](image-6.png)
 
+
+***Para desarmar el motor, este debe esta con el piston en el punto muerto superior y ambas valvulas deben estar cerradas***
+
 ### Carburador
 
 Prepara la mezcla de aire con gasolina pulverizada, de tal forma que su inflamación por una chispa resulte en una combustión rapida que perezca de casi instantanemente. La potencia explosiva de esta es la que se aprovecha en los cilindros para empujar con fuerza los pistones.
@@ -120,6 +123,50 @@ La mezcla se llama _aire carburado_, la proporción normal es de 10000 litros de
 - ¿Que es el surtidor de alta?
 - ¿Que es el surtidor de baja?
 
+### Sistema de distribución de valvulas
 
+El cigueñal es el único que se mueve llevando el movimiento hacia el eje de levas 2 vueltas de cigueñal por 1 vuelta del eje de levas
 
+- **Motor varillero (OHV).-** Eje de levas en la parte inferior al lado del cigueñal **ventaja** durabilidad mantenimiento, **desventaja** velocidad de accionamiento
+- **Motor cadenero (OHC).-** Eje de levas en la parte superior de la culata **ventaja** velocidad de accionamiento, **desventaja** mantenimiento de cadenillas
+- **Motor DOHC.-** Doble eje de levas en la parte superior
+
+El ciguañal hace girar por un engranaje el arbol de levas y los salientes de estas por medio de los taques y valancines obligan a abrirse las valvulas, cuyos resortes tienden a mantenerlas cerradas
+
+### Eje de levas
+
+![alt text](image-7.png)
+
+La temperatura adecuada del motor puede oscilar entre 80, 85, 90 y 95 grados a la que trabaja, no puede exceder esa temperatura
+
+### Regulación de valvulas
+
+#### Holguras
+
+- Admisión 0.05mm - 0.08mm
+- Escape 0.08mm - 0.10 mm
+
+Dentro la valvula no tiene que entrar polvo o particulas
+
+**Crema/Pasta para acentar valvulas (Crema esmeril)** Poner la crema en la cara de la valvula
+
+![alt text](image-8.png)
+
+![alt text](image-10.png)
+
+Sujetador de valvulas (no se si es correcto el nombre)
+
+![alt text](image-11.png)
+
+![alt text](image-12.png)
+
+![alt text](image-13.png)
+
+**Prueba de estanqueidad** con gasolina, la gasolina tiene que estancarse por lo menos 30 segundos, si sale por los colectores hay que seguir acentuando
+
+![alt text](image-9.png)
+
+**Mantenimientos correctivos** 
+
+Si la culata esta doblada, va haber fugas de compresión, llevar al tornero para que la limpie
 
